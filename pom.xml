@@ -3,13 +3,13 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>de.wennersonline</groupId>
 	<artifactId>spring.jms.activemq.helloworld</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.${v}-SNAPSHOT</version>
 	<name>Archetype - spring.jms.activemq.helloworld</name>
 	<url>http://maven.apache.org</url>
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>1.5.9.RELEASE</version>
+		<version>1.5.17.RELEASE</version>
 	</parent>
 	<properties>
 		<java.version>1.8</java.version>
