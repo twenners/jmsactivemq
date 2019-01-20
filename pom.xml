@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>de.wennersonline</groupId>
 	<artifactId>spring.jms.activemq.helloworld</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>${build.version}</version>
 	<name>Archetype - spring.jms.activemq.helloworld</name>
 	<url>http://maven.apache.org</url>
 	<parent>
