@@ -1,0 +1,1 @@
+mvn clean install versions:set -Dbuild.version=2.70.${BUILD_NUMBER}-SNAPSHOT
